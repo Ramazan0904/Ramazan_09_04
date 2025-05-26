@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🛠️ Languages and Tools :
-Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL EXCEL GIT API Airflow
+Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL GIT API Airflow
