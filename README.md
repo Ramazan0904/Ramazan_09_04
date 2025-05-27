@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### 🛠️ Languages and tools :
-### Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL GIT API Airflow
+### Python(pandas, numpy, matplotlib, seaborn) Jupyter Clickhouse PostgreSQL Redash EXCEL GIT API Airflow Tableau A/B тестирование Мат.статистика
 
