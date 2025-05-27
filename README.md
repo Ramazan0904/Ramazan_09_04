@@ -7,5 +7,5 @@ Ramazan09041990/Ramazan09041990 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-🛠️ Languages and Tools :
-Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL GIT API Airflow
+#### 🛠️ Languages and Tools :
+#### Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL GIT API Airflow
