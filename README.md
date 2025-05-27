@@ -5,8 +5,7 @@
     <h3>Для меня важно, чтобы мои решения и моя работа в целом приносили пользу. И по этой причине я пришёл в DA, потому что только на качественных, грамотно проанализированных данных можно принимать эффективные и полезные решения</h3>
 </div>
 
-### 🛠️ Languages and tools :
-### Python(pandas, numpy, matplotlib, seaborn) Jupyter Clickhouse PostgreSQL Redash EXCEL GIT API Airflow Tableau A/B тестирование Мат.статистика
+### 🛠️ Languages and tools: Python(pandas, numpy, matplotlib, seaborn) Jupyter Clickhouse PostgreSQL Redash EXCEL GIT API Airflow Tableau A/B тестирование Мат.статистика
 
 <!---
 Ramazan09041990/Ramazan09041990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
