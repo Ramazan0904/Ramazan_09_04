@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
 ### 🛠️ Languages and tools :
 ### Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL GIT API Airflow
-
-### Languages and tools
 
