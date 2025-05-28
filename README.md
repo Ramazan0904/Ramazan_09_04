@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Привет! Меня зовут Рамазан </h1>
+    <h1>Привет! Меня зовут Рамазан <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
     <img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400">
     <h3>Я data analyst & data scientist</h3>
     <h3>Имею высшее техническое образование и большой опыт в анализе данных по управлению космическими аппаратами. Сейчас активно развиваюсь в направлении data аналитики</h3>
