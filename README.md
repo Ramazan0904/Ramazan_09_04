@@ -12,9 +12,9 @@ My contacts:
 * ✉ [ramzes.omar@mai.ru](mailto:ramzes.omar@mai.ru) 
 
 ---
-### Skills :hammer_and_wrench:
+### Languages and tools :hammer_and_wrench:
 
-- **🛠️ Languages and tools:**: `Python(pandas, numpy, matplotlib, seaborn)`, `SQL`, `Git`, `Clickhouse`, `PostreSQL`, `Redash`, `EXCEL`, `Airflow`, `API`, `Tableau`, `Jupyter Notebook`, `Command-line`, `Sklearn`, `A/B тестирование`, `Мат.статистика`
+-  `Python(pandas, numpy, matplotlib, seaborn)`, `SQL`, `Git`, `Clickhouse`, `PostreSQL`, `Redash`, `EXCEL`, `Airflow`, `API`, `Tableau`, `Jupyter Notebook`, `Command-line`, `Sklearn`, `A/B тестирование`, `Мат.статистика`
 ---
 ###      
 
