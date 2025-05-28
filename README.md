@@ -11,7 +11,12 @@ My contacts:
 * 💻 [LinkedIn](https://www.linkedin.com/in/valentin-patrakeev-157198123)
 * ✉ [ramzes.omar@mai.ru](mailto:ramzes.omar@mai.ru) 
 
-### 🛠️ Languages and tools: Python(pandas, numpy, matplotlib, seaborn) Jupyter Clickhouse PostgreSQL Redash EXCEL GIT API Airflow Tableau A/B тестирование Мат.статистика
+---
+### Skills :hammer_and_wrench:
+
+- **🛠️ Languages and tools:**: `Python(pandas, numpy, matplotlib, seaborn)`, `SQL`, `Git`, `Clickhouse`, `PostreSQL`, `Redash`, `EXCEL`, `Airflow`, `API`, `Tableau`, `Jupyter Notebook`, `Command-line`, `Sklearn`, `A/B тестирование`, `Мат.статистика`
+---
+###      
 
 <!---
 Ramazan09041990/Ramazan09041990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
