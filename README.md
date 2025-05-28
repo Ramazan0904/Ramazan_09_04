@@ -8,7 +8,7 @@
 My contacts:
 * 📞 +7-911-101-09-04
 * 📲 [Telegram](https://t.me/Ramazan_09_04)
-* 💻 [LinkedIn]([[https://www.linkedin.com/in/valentin-patrakeev-157198123])
+* 💻 [LinkedIn](https://www.linkedin.com/in/valentin-patrakeev-157198123)
 * ✉ [ramzes.omar@mai.ru](mailto:ramzes.omar@mai.ru) 
 
 ### 🛠️ Languages and tools: Python(pandas, numpy, matplotlib, seaborn) Jupyter Clickhouse PostgreSQL Redash EXCEL GIT API Airflow Tableau A/B тестирование Мат.статистика
