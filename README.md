@@ -18,6 +18,22 @@ My contacts:
 ---
 ###      
 
+## My Project
+
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/Ramazan_09_04/project1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
+|Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/Ramazan_09_04/project2)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
+|Проект 3 RFM-анализ  (__[github](https://github.com/Ramazan_09_04/project2)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
+|Проект 4 E-commerce  (__[github](https://github.com/Ramazan_09_04/project2)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+
+
+
+
+
+
+
+
 <!---
 Ramazan09041990/Ramazan09041990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
